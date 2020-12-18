@@ -16,12 +16,12 @@ public class SbiBank extends BankDetails {
 	
 	@Override
 	public void fixed() {
-		System.out.println("12%");
+		System.out.println("20%");
 		
 	}
 	
 	public void loan() {
-		System.out.println("5%");
+		System.out.println("10%");
 
 	}
 	
